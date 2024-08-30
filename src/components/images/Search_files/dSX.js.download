@@ -1,0 +1,1 @@
+(function(){"use strict";const n={DISALLOWED_PROPERTIES:()=>{const{bouncex:t}=window;return t&&t.vars?t.vars.attentive_suppress===!0:!1}};window.__attentive_client_cfg=n})();

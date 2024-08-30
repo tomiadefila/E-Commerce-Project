@@ -1,0 +1,11 @@
+footer .site-footer__col--address {
+  column-count: 2;
+}
+footer .site-footer__col--address p {
+  break-inside: avoid;
+}
+@media (min-width: 1240px) {
+ footer.site-footer .col.d3 {
+    width: 16%;
+  }
+}

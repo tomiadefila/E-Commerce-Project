@@ -1,0 +1,57 @@
+.navgrid1 {
+    display: flex;
+    gap: 450px;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+.navgrid2 {
+    display:flex;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: solid 1px #393939;
+    border-bottom:solid 1px #393939 ;
+    gap: 20px;
+    line-height: 0.1;
+     
+}
+
+Link {
+    font-family:SURT, sans-serif;
+    font-weight: 400;
+    color: #393939;
+    text-decoration: none;
+    text-align: center;
+      
+}
+
+.logo {
+    width: 150px;
+    text-align: left;
+    padding-right: 450px;
+}
+ 
+header {
+    background: #fffef8;
+    line-height: 1;
+ }
+
+.navgrid2 a {
+    
+    float: none;
+    padding: 14px 16px;
+}
+
+.dropdown-content {
+    display: none;
+}
+
+.dropdown-content a {
+    display: block;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+        

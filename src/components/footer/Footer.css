@@ -1,0 +1,47 @@
+.footergrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-top: solid 1px #393939;
+
+}
+
+a {
+    font-family:SURT, sans-serif;
+    font-weight: 400;
+    color: #393939;
+    text-decoration: none;
+}
+
+footer {
+    background: #fffef8;
+    line-height: 1.8;
+    font-size: 15px;
+    
+}
+
+.footergrid1 a {
+    display: block;
+
+}
+
+.footergrid2 a {
+    display: block;
+
+}
+
+.footergrid3 a {
+    display: block;
+
+}
+
+.footergrid4 a {
+    display: block;
+
+}
+
+
+    
+    
