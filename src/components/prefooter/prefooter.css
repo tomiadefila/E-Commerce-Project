@@ -1,0 +1,38 @@
+.prefootergrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 60px;
+    margin-right: 200px;
+    margin-left: 200px;
+    
+
+}
+
+a {
+    font-family: SURT, sans-serif;
+    font-weight: 400;
+    color: #393939;
+}
+
+prefooter {
+    background: #fffef8;
+    line-height: 1.0;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.prefootergrid1 a {
+    display: block;
+
+}
+
+.prefootergrid2 a {
+    display: block;
+
+}
+
+.prefootergrid3 a {
+    display: block;
+
+}
