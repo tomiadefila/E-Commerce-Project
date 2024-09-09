@@ -1,7 +1,6 @@
 import { useState } from "react";
 import Header from "./components/header/Header";
 import Prefooter from "./components/prefooter/Prefooter";
-import Prefooter2 from "./components/prefooter2/prefooter2";
 import Footer from "./components/footer/Footer";
 import Clothing from "./components/clothing/Clothing";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
@@ -44,9 +43,6 @@ function App() {
         <br />
         <Prefooter />
         <br />
-        <br />
-        <br />
-        <Prefooter2 />
         <br />
         <br />
         <br />
