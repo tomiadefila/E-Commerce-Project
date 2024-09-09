@@ -6,32 +6,40 @@ function Footer() {
         <div className="footergrid">
           <div className="footergrid1">
             <h5>CULT GAIA</h5>
-            <a href="#">About</a>
-            <a href="#">Work with us </a>
-            <a href="#">Contact</a>
-            <a href="#">Join the Cult</a>
+            <div className="footergrid1a">
+              <a href="#">About</a>
+              <a href="#">Work with us </a>
+              <a href="#">Contact</a>
+              <a href="#">Join the Cult</a>
+            </div>
           </div>
           <div className="footergrid2">
             <h5>SHOP</h5>
-            <a href="#">Shipping Info</a>
-            <a href="#">Returns & Exchanges</a>
-            <a href="#">FAQ</a>
-            <a href="#">Track Order</a>
+            <div className="footergrid2a">
+              <a href="#">Shipping Info</a>
+              <a href="#">Returns & Exchanges</a>
+              <a href="#">FAQ</a>
+              <a href="#">Track Order</a>
+            </div>
           </div>
           <div className="footergrid3">
             <h5>LEGAL</h5>
-            <a href="#">Terms</a>
-            <a href="#">Mobile Terms</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Sitemap</a>
-            <a href="#">Accesibility</a>
+            <div className="footergrid3a">
+              <a href="#">Terms</a>
+              <a href="#">Mobile Terms</a>
+              <a href="#">Privacy Policy</a>
+              <a href="#">Sitemap</a>
+              <a href="#">Accesibility</a>
+            </div>
           </div>
           <div className="footergrid4">
             <h5>SOCIAL</h5>
-            <a href="#">Pinterest</a>
-            <a href="#">Instagram</a>
-            <a href="#">Facebook</a>
-            <a href="#">Vimeo</a>
+            <div className="footergrid4a">
+              <a href="#">Pinterest</a>
+              <a href="#">Instagram</a>
+              <a href="#">Facebook</a>
+              <a href="#">Vimeo</a>
+            </div>
           </div>
           <div>
             <p>

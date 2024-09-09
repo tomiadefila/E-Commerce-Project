@@ -30,19 +30,37 @@ footer {
 
 }
 
+.footergrid1a a:hover {
+    color: gainsboro;
+    text-decoration: underline;
+}
+
 .footergrid2 a {
     display: block;
 
+}
+
+.footergrid2a a:hover {
+    color: gainsboro;
+    text-decoration: underline;
 }
 
 .footergrid3 a {
     display: block;
 
 }
+.footergrid3a a:hover {
+    color: gainsboro;
+    text-decoration: underline;
+}
 
 .footergrid4 a {
     display: block;
 
+}
+.footergrid4a a:hover {
+    color: gainsboro;
+    text-decoration: underline;
 }
 
 .footergrid5 {
