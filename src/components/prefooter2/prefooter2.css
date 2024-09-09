@@ -1,0 +1,42 @@
+.prefooter2grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 60px;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-bottom: solid 1px #393939;
+
+
+}
+.mail {
+    width: 50px;
+
+}
+
+a {
+    font-family: SURT, sans-serif;
+    font-weight: 400;
+    color: #393939;
+}
+
+prefooter2 {
+    background: #fffef8;
+    line-height: 1.0;
+    font-size: 13px;
+    text-align: center;
+
+}
+
+.prefooter2grid1 a {
+    display: block;
+
+}
+
+.prefooter2grid2 a {
+    display: block;
+
+}
+
+.prefooter2grid3 a {
+    display: block;
+}
