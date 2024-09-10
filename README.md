@@ -1,5 +1,5 @@
-Project Title : E-Commerce Web Application Development
-Objective:
+#Project Title : E-Commerce Web Application Development
+#Objective:
 The goal of this project is to design and develop a fully functional e-commerce website using React. The platform will allow users to browse and search for products, add items to their cart, complete purchases, and manage their profiles. This e-commerce solution will offer a modern, intuitive user experience, responsive design, and fast performance.
 
 Getting Started
