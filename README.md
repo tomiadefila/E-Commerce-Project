@@ -1,8 +1,8 @@
-Project Title : E-Commerce Web Application Development
-Objective:
+# Project Title : E-Commerce Web Application Development
+## Objective:
 The goal of this project is to design and develop a fully functional e-commerce website using React. The platform will allow users to browse and search for products, add items to their cart, complete purchases, and manage their profiles. This e-commerce solution will offer a modern, intuitive user experience, responsive design, and fast performance.
 
-Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -17,7 +17,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Prerequisites
+## Prerequisites
 What things you need to install the software and how to install them
 
 Give examples
@@ -58,10 +58,10 @@ React App
 Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Versioning
+## Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
-Authors
+## Authors
 Tomi Ayandibu - Initial work 
 Ieuan Skinner - Review
 See also the list of contributors who participated in this project.
