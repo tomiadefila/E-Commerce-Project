@@ -1,0 +1,43 @@
+
+
+function ShowFreeShippingBanner() {
+    var containerId = "geFreeShippingBannerContainer";
+    if (containerId) {
+        var merchantContainer = document.getElementById(containerId);
+
+        if (merchantContainer) {
+            merchantContainer.classList.add("fsbloaded");
+            PlaceFreeShippingBanner(merchantContainer);
+        }
+        else {
+            console.log("ShowFreeShippingBanner : Container Id : " + containerId + " not found in DOM")
+        }
+    }
+}
+
+function PlaceFreeShippingBanner(container) {
+    clearInterval(timerId);
+
+    if (document.getElementById("FreeShippingBanner") === null) {
+        var freeShippingBanner = document.createElement('div');
+        freeShippingBanner.setAttribute("id", "FreeShippingBanner");
+        freeShippingBanner.setAttribute("style", '/*background-color: #333; color: #fff; text-align: center; font-family: arial; padding: 4px; font-size: 14px;*/color: #000000;background-color:#f9f2ef !important;font-size:11px;line-height:2.2;text-align:center;font-family:Futura;font-weight:500;letter-spacing:1.3px;direction:ltr;');
+        //CORE-16309
+        freeShippingBanner.setAttribute("data-gem-ignore", '');
+
+        //textContext from text resource
+        freeShippingBanner.textContent = "Free shipping to United Kingdom on all orders";
+
+        container.insertBefore(freeShippingBanner, container.firstChild);
+
+        try {
+            gleTags.freeShippingBannerShowed('1302', '211', 'GBP');
+        }
+        catch (err) {
+            console.log(err.message);
+        }
+    }
+}
+
+var timerId = setInterval(() => ShowFreeShippingBanner(), 500);
+setTimeout(() => PlaceFreeShippingBanner(document.body), 2500);

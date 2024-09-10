@@ -1,0 +1,95 @@
+ [
+    {
+        "srcClothing": "images/clothingimages/Ada_Skirt.png",
+        "altClothing": "Ada_Skirt pic",
+        "titleClothing": "Ada Skirt",
+        "priceClothing": "£459"
+    },
+    {
+        "srcClothing": "images/clothingimages/Aka _Dress.png",
+        "altClothing": "Aka_Dress pic",
+        "titleClothing": "Aka Dress",
+        "priceClothing": "£750"
+    },
+    {
+        "srcClothing": "images/clothingimages/Ama_Dress.png",
+        "altClothing": "Ama_Dress pic",
+        "titleClothing": "Ama Dress",
+        "priceClothing": "£679"
+    },
+    {
+        "srcClothing": "images/clothingimages/Black_BlazJacket.png",
+        "altClothing": "Black_BlazJacket pic",
+        "titleClothing": "Blaze Jacket",
+        "priceClothing": "£459"
+    },
+    {
+        "srcClothing": "images/clothingimages/Bria_Top.png",
+        "altClothing": "Bria_Top",
+        "titleClothing": "Bria Top",
+        "priceClothing": "£350"
+    },
+    {
+        "srcClothing": "images/clothingimages/Clara_Pant.png",
+        "altClothing": "Clara_Pant Pic",
+        "titleClothing": "Clara Pant",
+        "priceClothing": "£359"
+    },
+    {
+        "srcClothing": "images/clothingimages/Diya_Coat.png",
+        "altClothing": "Diya_Coat Pic",
+        "titleClothing": "Diya Coat",
+        "priceClothing": "£489"
+    },
+    {
+        "srcClothing": "images/clothingimages/Elle_Dress.png",
+        "altClothing": "Elle_Dress Pic",
+        "titleClothing": "Elle Dress ",
+        "priceClothing": "£859"
+    },
+    {
+        "srcClothing": "images/clothingimages/Gima_Top.png",
+        "altClothing": "Gima_Top Pic",
+        "titleClothing": "Gima Top ",
+        "priceClothing": "£379"
+    },
+    {
+        "srcClothing": "images/clothingimages/Kenny_Dress.png",
+        "altClothing": "Kenny_Dress Pic",
+        "titleClothing": "Kenny Dress ",
+        "priceClothing": "£979"
+    },
+    {
+        "srcClothing": "images/clothingimages/Pearl_Gown.png",
+        "altClothing": "Pearl_Gown Pic",
+        "titleClothing": " Pearl Gown",
+        "priceClothing": "£1079"
+    },
+    {
+        "srcClothing": "images/clothingimages/Serena_Blazer.png",
+        "altClothing": "Serena_Blazer Pic",
+        "titleClothing": "Serena Blazer",
+        "priceClothing": "£579"
+    },
+    {
+        "srcClothing": "images/clothingimages/Stacy_Pant.png",
+        "altClothing": "Stacy_Pant Pic",
+        "titleClothing": "Stacy Pant",
+        "priceClothing": "£579"
+    },
+    {
+        "srcClothing": "images/clothingimages/Vera_Top.png",
+        "altClothing": "Vera_Top Pic",
+        "titleClothing": "Vera Top",
+        "priceClothing": "£349"
+    },
+    {
+        "srcClothing": "images/clothingimages/Wura_Gown.png",
+        "altClothing": "Wura Gown Pic",
+        "titleClothing": "Wura Gown",
+        "priceClothing": "£779"
+    }
+]
+
+
+    
