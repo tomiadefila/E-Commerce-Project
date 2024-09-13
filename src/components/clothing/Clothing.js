@@ -16,11 +16,27 @@ function Clothing() {
     fetchData();
   }, []);
 
+  const sort = function () {
+    const copy = Object.assign([],list)
+    console.log("sortClicked")
+    copy.sort(function (a,b) {
+      if (a.titleClothing < b.titleClothing) return -1
+      if (a.titleClothing > b.titleClothing) return 1
+      return 0
+    }) 
+    setList(copy.reverse())
+  }
+
+
   return (
     <div>
       <p className="p1">CLOTHING</p>
       <br />
       <br />
+
+      <ul>
+        <li onClick={sort}>A-z</li>
+      </ul>
 
       <div className="cl-wrap">
         {list.map((list) => (
