@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useEffect } from "react";
 import Header from "./components/header/Header";
 import Prefooter from "./components/prefooter/Prefooter";
 import Footer from "./components/footer/Footer";

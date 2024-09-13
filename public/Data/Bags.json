@@ -1,0 +1,71 @@
+[
+  {
+   "srcBags": "/images/bagimages/Alita_Top_Handle.png",
+   "altBags": "Alita_Top_Handle pic",
+  "titleBags": "Alita Top Handle",
+  "priceBags": "£459"
+  },
+
+  {
+  "srcBags": "/images/bagimages/Ark Crossbody.png",
+  "altBags": "Ark_Crossbody pic",
+  "titleBags": "Ark Crossbody",
+  "priceBags": "£459"
+  },
+
+  {
+  "srcBags": "/images/bagimages/Fana Pearl Bag.png",
+  "altBags": "Cali_Clutch pic",
+  "titleBags": "Cali Clutch",
+  "priceBags": "£459"
+  },
+
+  {
+  "srcBags": "/images/bagimages/Fana Pearl Bag.png",
+  "altBags": "Fana_Pearl_Bag",
+  "titleBags": "Fana Pearl Bag",
+  "priceBags": "£459"
+  },
+
+  {
+  "srcBags": "/images/bagimages/Lola Shoulder Bag.png",
+  "altBags": "Lola_Shoulder pic",
+  "titleBags": "Lola Shoulder",
+  "priceBags": "£459"
+  },
+
+  {
+  "srcBags": "/images/bagimages/Mimi Bag.png",
+  "altBags": "Mimi_Bag pic",
+  "titleBags": "Mimi Bag",
+  "priceBags": "£459"
+  },
+
+  {
+  "srcBags": "/images/bagimages/Odette Tote.png",
+  "altBags": "Odette_Tote pic",
+  "titleBags": "Odette Tote",
+  "priceBags": "£459"
+  },
+
+{ 
+  "srcBags": "/images/bagimages/Sade Tote Bag.png",
+  "altBags": "Sade_Tote_Bag pic",
+  "titleBags": "Sade Tote Bag",
+  "priceBags": "£459"
+},
+
+{
+"srcBags": "/images/bagimages/Vina Tote.png",
+"altBags": "Vina_Tote pic",
+"titleBags": "Vina Tote",
+"priceBags": "£459"
+},
+
+{
+"srcBags": "/images/bagimages/Zuca Top Handle.png",
+"altBags": "Zuca_Top_Handle pic",
+"titleBags": "Zuca Top Handle",
+"priceBags": "£459"
+}
+]
