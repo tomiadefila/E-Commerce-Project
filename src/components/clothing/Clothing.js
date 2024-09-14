@@ -16,15 +16,62 @@ function Clothing() {
     fetchData();
   }, []);
 
-  const sort = function () {
-    const copy = Object.assign([],list)
+  const togglelist = function() {
+    const clothingList = document.getElementById("sortList");
+
+    if (
+      clothingList.style.display == "none" ||
+      clothingList.style.display == ""
+    ) {
+      clothingList.style.display = "block";
+    } else {
+      clothingList.style.display = "none";
+    }
+  }
+
+  const sort3 = function () {
+    const copy3 = Object.assign([], list);
+    console.log("sortClicked");
+    copy3.sort(function (a, b) {
+      if (a.priceClothing < b.priceClothing) return -1;
+      if (a.priceClothing > b.priceClothing) return 1;
+      return 0;
+    });
+    setList(copy3);
+  };
+
+  const sort4 = function () {
+    const copy4 = Object.assign([], list);
+    console.log("sortClicked");
+    copy4.sort(function (a, b) {
+      if (a.priceClothing < b.priceClothing) return -1;
+      if (a.priceClothing > b.priceClothing) return 1;
+      return 0;
+    });
+    setList(copy4.reverse());
+  };
+
+
+  const sort5 = function () {
+    const copy5 = Object.assign([], list);
+    console.log("sortClicked");
+    copy5.sort(function (a, b) {
+      if (a.titleClothing < b.titleClothing) return -1;
+      if (a.titleClothing > b.titleClothing) return 1;
+      return 0;
+    });
+    setList(copy5);
+  };
+
+  const sort6 = function () {
+    const copy6 = Object.assign([],list)
     console.log("sortClicked")
-    copy.sort(function (a,b) {
+    copy6.sort(function (a,b) {
       if (a.titleClothing < b.titleClothing) return -1
       if (a.titleClothing > b.titleClothing) return 1
       return 0
     }) 
-    setList(copy.reverse())
+    setList(copy6.reverse())
   }
 
 
@@ -33,9 +80,16 @@ function Clothing() {
       <p className="p1">CLOTHING</p>
       <br />
       <br />
-
-      <ul>
-        <li onClick={sort}>A-z</li>
+      
+        <button className="cl-button" onClick={togglelist} >Sort By</button>
+      
+      <ul className="cl-list" id="sortList">
+        <li>Popularity</li>
+        <li>Newest</li>
+        <li onClick={sort3}>Price(Low-High)</li>
+        <li onClick={sort4}>Price(High-Low)</li>
+        <li onClick={sort5}>Name(A-Z)</li>
+        <li onClick={sort6}>Name(Z-A)</li>
       </ul>
 
       <div className="cl-wrap">
