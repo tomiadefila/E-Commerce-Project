@@ -1,51 +1,51 @@
  [
   {
-    "srcShoes": "/images/shoesimages/Ada Sandal.png",
-    "altShoes": "Ada_Sandal pic",
-    "titleShoes": "Ada Sandal",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Ada Sandal.png",
+    "alt": "Ada_Sandal pic",
+    "title": "Ada Sandal",
+    "price": "£459"
   },
 
   {
-    "srcShoes": "/images/shoesimages/Black Donna Pump.png",
-    "altShoes": "Black_Donna_Pump pic",
-    "titleShoes": "Black Donna Pump",
-    "priceShoes:": "£459"
+    "src": "/images/shoesimages/Black Donna Pump.png",
+    "alt": "Black_Donna_Pump pic",
+    "title": "Black Donna Pump",
+    "price": "£459"
   },
 
   {
-    "srcShoes": "/images/shoesimages/Dena Wedge.png",
-    "altShoes": "Dena_Wedge pic",
-    "titleShoes": "Dena Wedge",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Dena Wedge.png",
+    "alt": "Dena_Wedge pic",
+    "title": "Dena Wedge",
+    "price": "£459"
   },
 
   {
-    "srcShoes": "/images/shoesimages/Donna Pump.png",
-    "altShoes": "Donna_Pump pic",
-    "titleShoes": "Donna Pump",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Donna Pump.png",
+    "alt": "Donna_Pump pic",
+    "title": "Donna Pump",
+    "price": "£459"
   },
 
   {
-    "srcShoes": "/images/shoesimages/Dara Platform.png",
-    "altShoes": "Dara_Platform pic",
-    "titleShoes": "Dara Platform",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Dara Platform.png",
+    "alt": "Dara_Platform pic",
+    "title": "Dara Platform",
+    "price": "£459"
   },
 
   {
-    "srcShoes": "/images/shoesimages/Iris Mule.png",
-    "altShoes": "Iris_Mule pic",
-    "titleShoes": "Iris Mule",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Iris Mule.png",
+    "alt": "Iris_Mule pic",
+    "title": "Iris Mule",
+    "price": "£459"
   },
 
   {
-    "srcShoes": "/images/shoesimages/Nova Sandal.png",
-    "altShoes": "Nova_Sandal pic",
-    "titleShoes": "Nova Sandal",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Nova Sandal.png",
+    "alt": "Nova_Sandal pic",
+    "title": "Nova Sandal",
+    "price": "£459"
   },
 
   {
@@ -56,16 +56,16 @@
   },
 
   {
-    "srcShoes": "/images/shoesimages/Tyra Mule.png",
-    "altShoes": "Tyra_Mule pic",
-    "titleShoes": "Tyra Mule",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Tyra Mule.png",
+    "alt": "Tyra_Mule pic",
+    "title": "Tyra Mule",
+    "price": "£459"
   },
 
   {
-    "srcShoes": "/images/shoesimages/Yesa Slingback.png",
-    "altShoes": "Yesa_Slingback pic",
-    "titleShoes": "Yesa_Slingback",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Yesa Slingback.png",
+    "alt": "Yesa_Slingback pic",
+    "title": "Yesa_Slingback",
+    "price": "£459"
   }
 ]

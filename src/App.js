@@ -12,6 +12,7 @@ import Accesories from "./components/accesories/Accesories";
 import Shoes from "./components/shoes/Shoes";
 import New from "./components/new/New";
 import Home from "./Pages/Home";
+import Listing from "./components/listing/Listing";
 
 
 function App() {
@@ -23,9 +24,33 @@ function App() {
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route path="/shop" element={<Shop />} />
-          <Route path="/shop/clothing" element={<Clothing />} />
-          <Route path="/shop/bags" element={<Bags />} />
-          <Route path="/shop/shoes" element={<Shoes />} />
+          <Route
+            path="/shop/clothing"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/Clothing.json"
+                title="CLOTHING"
+              />
+            }
+          />
+          <Route
+            path="/shop/bags"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/Bags.json"
+                title="BAGS"
+              />
+            }
+          />
+          <Route
+            path="/shop/shoes"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/Shoes.json"
+                title="SHOES"
+              />
+            }
+          />
           <Route path="/shop/accesories" element={<Accesories />} />
           <Route path="/collections" element={<Collections />} />
           <Route path="/new" element={<New />} />

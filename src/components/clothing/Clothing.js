@@ -3,20 +3,19 @@ import "./Clothing.css";
 import { useState } from "react";
 import { useEffect } from "react";
 
-
 function Clothing() {
   const [list, setList] = useState([]);
   const fetchData = async function () {
     const response = await fetch("http://localhost:3000/Data/Clothing.json");
     const result = await response.json();
 
-      setList(result);
+    setList(result);
   };
   useEffect(function () {
     fetchData();
   }, []);
 
-  const togglelist = function() {
+  const togglelist = function () {
     const clothingList = document.getElementById("sortList");
 
     if (
@@ -27,7 +26,7 @@ function Clothing() {
     } else {
       clothingList.style.display = "none";
     }
-  }
+  };
 
   const sort3 = function () {
     const copy3 = Object.assign([], list);
@@ -51,7 +50,6 @@ function Clothing() {
     setList(copy4.reverse());
   };
 
-
   const sort5 = function () {
     const copy5 = Object.assign([], list);
     console.log("sortClicked");
@@ -64,25 +62,24 @@ function Clothing() {
   };
 
   const sort6 = function () {
-    const copy6 = Object.assign([],list)
-    console.log("sortClicked")
-    copy6.sort(function (a,b) {
-      if (a.titleClothing < b.titleClothing) return -1
-      if (a.titleClothing > b.titleClothing) return 1
-      return 0
-    }) 
-    setList(copy6.reverse())
-  }
-
+    const copy6 = Object.assign([], list);
+    console.log("sortClicked");
+    copy6.sort(function (a, b) {
+      if (a.titleClothing < b.titleClothing) return -1;
+      if (a.titleClothing > b.titleClothing) return 1;
+      return 0;
+    });
+    setList(copy6.reverse());
+  };
 
   return (
     <div>
       <p className="p1">CLOTHING</p>
-      <br />
-      <br />
-      
-        <button className="cl-button" onClick={togglelist} >Sort By</button>
-      
+
+      <button className="cl-button" onClick={togglelist}>
+        Sort By
+      </button>
+
       <ul className="cl-list" id="sortList">
         <li>Popularity</li>
         <li>Newest</li>
