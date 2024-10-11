@@ -1,12 +1,15 @@
-import Clothing from "../components/clothing/Clothing";
+import Listing from "../components/listing/Listing";
 
 function Home() {
     return (
-        <div>
-            <Clothing />
-            <br />
-            <br />
-        </div>
+      <div>
+        <Listing
+          dataSource="http://localhost:3000/Data/Clothing.json"
+          title="CLOTHING"
+        />
+        <br />
+        <br />
+      </div>
     );
 
 }

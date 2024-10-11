@@ -26,6 +26,7 @@ Link {
 }
 
 .logo {
+    height: 62px;
     width: 150px;
     text-align: left;
     padding-right: 450px;
