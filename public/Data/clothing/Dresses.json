@@ -1,0 +1,43 @@
+ [
+    {
+        "src": "/images/clothingimages/Ada_Skirt.png",
+        "alt": "Ada_Skirt pic",
+        "title": "Ada Skirt",
+        "price": "£459",
+        "rating": 5,
+        "date": "24/09/2024"
+
+    },
+    {
+        "src": "/images/clothingimages/Aka _Dress.png",
+        "alt": "Aka_Dress pic",
+        "title": "Aka Dress",
+        "price": "£750",
+        "rating": 6,
+        "date": "23/09/2024"
+    },
+    {
+        "src": "/images/clothingimages/Ama_Dress.png",
+        "alt": "Ama_Dress pic",
+        "title": "Ama Dress",
+        "price": "£679"
+    },
+        
+    {
+        "src": "/images/clothingimages/Elle_Dress.png",
+        "alt": "Elle_Dress Pic",
+        "title": "Elle Dress ",
+        "price": "£859"
+    },
+    
+    {
+        "src": "/images/clothingimages/Kenny_Dress.png",
+        "alt": "Kenny_Dress Pic",
+        "title": "Kenny Dress ",
+        "price": "£979"
+    }
+    
+]
+
+
+    

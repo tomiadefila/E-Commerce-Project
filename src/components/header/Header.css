@@ -43,16 +43,32 @@ header {
     padding: 14px 16px;
 }
 
-.dropdown-content {
+.dropdown .dropdown-content {
     display: none;
-}
+    background-color: #fffef8;
 
-.dropdown-content a {
-    display: block;
+
 }
 
 .dropdown:hover .dropdown-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 20px;
+}
+
+.dropdown-clothing :link {
+    display: block;
+
+}
+
+.dropdown-bags :link {
     display: block;
 }
 
-        
+.dropdown-shoes :link {
+    display: block;
+}
+
+.dropdown-accesories :link {
+    display: block;
+}

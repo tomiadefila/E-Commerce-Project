@@ -1,0 +1,40 @@
+ [
+        
+    {
+        "src": "/images/clothingimages/Black_BlazJacket.png",
+        "alt": "Black_BlazJacket pic",
+        "title": "Blaze Jacket",
+        "price": "£459"
+    },
+    {
+        "src": "/images/clothingimages/Bria_Top.png",
+        "alt": "Bria_Top",
+        "title": "Bria Top",
+        "price": "£350"
+    },
+    
+    {
+        "src": "/images/clothingimages/Diya_Coat.png",
+        "alt": "Diya_Coat Pic",
+        "title": "Diya Coat",
+        "price": "£489"
+    },
+    
+    {
+        "src": "/images/clothingimages/Gima_Top.png",
+        "alt": "Gima_Top Pic",
+        "title": "Gima Top ",
+        "price": "£379"
+    },
+        
+    {
+        "src": "/images/clothingimages/Vera_Top.png",
+        "alt": "Vera_Top Pic",
+        "title": "Vera Top",
+        "price": "£349"
+    }
+    
+]
+
+
+    

@@ -49,10 +49,10 @@
   },
 
   {
-    "srcShoes": "/images/shoesimages/Sury Sandal.png",
-    "altShoes": "Sury_Sandal pic",
-    "titleShoes": "Sury_Sandal",
-    "priceShoes": "£459"
+    "src": "/images/shoesimages/Sury Sandal.png",
+    "alt": "Sury_Sandal pic",
+    "title": "Sury_Sandal",
+    "price": "£459"
   },
 
   {

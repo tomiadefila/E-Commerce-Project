@@ -14,7 +14,6 @@ import New from "./components/new/New";
 import Home from "./Pages/Home";
 import Listing from "./components/listing/Listing";
 
-
 function App() {
   return (
     <div>
@@ -28,8 +27,53 @@ function App() {
             path="/shop/clothing"
             element={
               <Listing
-                dataSource="http://localhost:3000/Data/Clothing.json"
+                dataSource="http://localhost:3000/Data/clothing/Clothing.json"
                 title="CLOTHING"
+              />
+            }
+          />
+          <Route
+            path="/shop/clothing/dresses"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/clothing/Dresses.json"
+                title="DRESSES"
+              />
+            }
+          />
+          <Route
+            path="/shop/clothing/gowns"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/clothing/Gowns.json"
+                title="GOWNS"
+              />
+            }
+          />
+          <Route
+            path="/shop/clothing/knits"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/clothing/Knits.json"
+                title="KNITS"
+              />
+            }
+          />
+          <Route
+            path="/shop/clothing/tops"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/clothing/Tops.json"
+                title="TOPS"
+              />
+            }
+          />
+          <Route
+            path="/shop/clothing/bottoms"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/clothing/Bottoms.json"
+                title="BOTTOMS"
               />
             }
           />
@@ -37,7 +81,7 @@ function App() {
             path="/shop/bags"
             element={
               <Listing
-                dataSource="http://localhost:3000/Data/Bags.json"
+                dataSource="http://localhost:3000/Data/bags/Bags.json"
                 title="BAGS"
               />
             }
@@ -46,7 +90,7 @@ function App() {
             path="/shop/shoes"
             element={
               <Listing
-                dataSource="http://localhost:3000/Data/Shoes.json"
+                dataSource="http://localhost:3000/Data/shoes/Shoes.json"
                 title="SHOES"
               />
             }
