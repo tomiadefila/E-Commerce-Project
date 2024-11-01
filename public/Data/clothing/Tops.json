@@ -1,16 +1,39 @@
  [
-        
+    
     {
+        "src": "/images/clothingimages/Ada_Top.png",
+        "alt": "Ada_Top pic",
+        "title": "Ada Top",
+        "price": "£259",
+        "rating": 5,
+        "date": "24/09/2024"
+
+    },
+     {
         "src": "/images/clothingimages/Black_BlazJacket.png",
         "alt": "Black_BlazJacket pic",
-        "title": "Blaze Jacket",
+        "title": "Black Blaze Jacket",
         "price": "£459"
     },
+   
+    {
+        "src": "/images/clothingimages/Blue_Blaz Jacket.png",
+        "alt": "Black_BlazJacket pic",
+        "title": "Blue Blaze Jacket",
+        "price": "£459"
+    },    
     {
         "src": "/images/clothingimages/Bria_Top.png",
         "alt": "Bria_Top",
         "title": "Bria Top",
         "price": "£350"
+    },
+    
+    {
+        "src": "/images/clothingimages/Cora_Coat.png",
+        "alt": "Clara_Pant Pic",
+        "title": "Cora Coat",
+        "price": "£459"
     },
     
     {
@@ -21,20 +44,108 @@
     },
     
     {
+        "src": "/images/clothingimages/Eka_Top.png",
+        "alt": "Eka_Top Pic",
+        "title": "Eka Top ",
+        "price": "£259"
+    },
+    
+    {
+        "src": "/images/clothingimages/Fara_Top.png",
+        "alt": "Fara_Top Pic",
+        "title": "Fara Top ",
+        "price": "£359"
+    },
+    {
+        "src": "/images/clothingimages/Gabby_Top.png",
+        "alt": "Gabby_Top Pic",
+        "title": "Gabby Top ",
+        "price": "£339"
+    },
+    {
+        "src": "/images/clothingimages/Gena_Top.png",
+        "alt": "Gena_Top Pic",
+        "title": "Gena Top ",
+        "price": "£279"
+    },
+    
+    {
         "src": "/images/clothingimages/Gima_Top.png",
         "alt": "Gima_Top Pic",
         "title": "Gima Top ",
         "price": "£379"
     },
-        
+    
+    {
+        "src": "/images/clothingimages/Ireti_Top.png",
+        "alt": "Ireti_Top Pic",
+        "title": "Ireti Top ",
+        "price": "£279"
+    },
+    
+    {
+    
+        "src": "/images/clothingimages/Jade_Top.png",
+        "alt": "Jade_Top Pic",
+        "title": "Jade Top ",
+        "price": "£259"
+    },
+    
+    {
+        "src": "/images/clothingimages/Luca_Jacket.png",
+        "alt": "Luca_Jacket Pic",
+        "title": "Luca Jacket ",
+        "price": "£579"
+    },
+    
+    {
+    
+        "src": "/images/clothingimages/Nora_Top.png",
+        "alt": "Nora_Top Pic",
+        "title": "Nora Top ",
+        "price": "£259"
+    },
+    
+    {
+    
+        "src": "/images/clothingimages/Ora_Top.png",
+        "alt": "Ora_Top Pic",
+        "title": "Ora Top ",
+        "price": "£259"
+    },
+    
+    {
+    
+        "src": "/images/clothingimages/Ria_Top.png",
+        "alt": "Ria_Top Pic",
+        "title": "Ria Top ",
+        "price": "£259"
+    },
+    
+    {
+        "src": "/images/clothingimages/Serena_Blazer.png",
+        "alt": "Serena_Blazer Pic",
+        "title": "Serena Blazer",
+        "price": "£579"
+    },
+    
+    {
+        "src": "/images/clothingimages/Sosa_Top.png",
+        "alt": "Sosa_Top Pic",
+        "title": "Sosa Top",
+        "price": "£279"
+    },
+    
+     {
+        "src": "/images/clothingimages/Tara_Top.png",
+        "alt": "Tara_Top Pic",
+        "title": "Tara Top",
+        "price": "£349"
+    },
     {
         "src": "/images/clothingimages/Vera_Top.png",
         "alt": "Vera_Top Pic",
         "title": "Vera Top",
         "price": "£349"
     }
-    
 ]
-
-
-    

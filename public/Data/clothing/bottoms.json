@@ -1,19 +1,139 @@
  [
-        
+    {
+        "src": "/images/clothingimages/Ada_Skirt.png",
+        "alt": "Ada_Skirt pic",
+        "title": "Ada Skirt",
+        "price": "£459",
+        "rating": 5,
+        "date": "24/09/2024"
+
+    },
+    
+    {
+        "src": "/images/clothingimages/Ana_Skirt.png",
+        "alt": "Ana_Skirt pic",
+        "title": "Ana Skirt",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+    
+    {
+        "src": "/images/clothingimages/Arieta_Skirt.png",
+        "alt": "Arieta_Skirt pic",
+        "title": "Arieta Skirt",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+    
     {
         "src": "/images/clothingimages/Clara_Pant.png",
         "alt": "Clara_Pant Pic",
         "title": "Clara Pant",
+        "price": "£259"
+    },
+    {
+        "src": "/images/clothingimages/Dera_Pant.png",
+        "alt": "Dera_Pant Pic",
+        "title": "Dera_Pant",
+        "price": "£389"
+    },
+    
+    {
+        "src": "/images/clothingimages/Eka_Shirt.png",
+        "alt": "Eka_Shirt Pic",
+        "title": "Eka Shirt ",
         "price": "£359"
     },
-        
+    
+    {
+        "src": "/images/clothingimages/Gena_Skirt.png",
+        "alt": "Gena_Skirt Pic",
+        "title": "Gena Skirt ",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Gima_Top.png",
+        "alt": "Gima_Top Pic",
+        "title": "Gima Top ",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Gima_Skirt.png",
+        "alt": "Gima_Skirt Pic",
+        "title": "Gima Skirt ",
+        "price": "£479"
+    },
+    
+    {
+        "src": "/images/clothingimages/Ireti_Pant.png",
+        "alt": "Ireti_Pant Pic",
+        "title": "Ireti Pant ",
+        "price": "£479"
+    },
+    
+    {
+        "src": "/images/clothingimages/Jona_Pant.png",
+        "alt": "Jona_Pant Pic",
+        "title": "Jona Pant ",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Kara_Pant.png",
+        "alt": "Kara_Pant Pic",
+        "title": "Kara Pant ",
+        "price": "£379"
+    },
+    
+    {
+        "src": "/images/clothingimages/Luca_Skirt.png",
+        "alt": "Luca_Skirt Pic",
+        "title": "Luca Skirt ",
+        "price": "£379"
+    },
+    
+    {
+        "src": "/images/clothingimages/Ola_Short.png",
+        "alt": "Ola_Short Pic",
+        "title": "Ola Short",
+        "price": "£179"
+    },
+   
+    {
+        "src": "/images/clothingimages/Sona_Skirt.png",
+        "alt": "Sona_Skirt Pic",
+        "title": "Sona Skirt",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Sosa_Pant.png",
+        "alt": "Sosa_Pant Pic",
+        "title": "Sosa Pant",
+        "price": "£459"
+    },
+    
     {
         "src": "/images/clothingimages/Stacy_Pant.png",
         "alt": "Stacy_Pant Pic",
         "title": "Stacy Pant",
-        "price": "£579"
-    }
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Syd_Pant.png",
+        "alt": "Syd_Pant Pic",
+        "title": "Syd Pant",
+        "price": "£479"
+    },
     
+    {
+        "src": "/images/clothingimages/Wina_Pant.png",
+        "alt": "Wina_Pant Pic",
+        "title": "Wina Pant",
+        "price": "£379"    
+    }
 ]
 
 

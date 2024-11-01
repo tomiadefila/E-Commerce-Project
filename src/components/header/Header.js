@@ -33,10 +33,10 @@ function Header() {
                 <Link to="/shop/bags">Bags</Link>
                 <Link to="/shop/bags/all bags">All Bags</Link>
                 <Link to="/shop/bags/clutches">Clutches</Link>
-                <Link to="/shop/bags/mini bags">Mini Bags</Link>
-                <Link to="/shop/bags/tote bags">Tote Bags</Link>
-                <Link to="/shop/bags/shoulder bags">Shoulder Bags</Link>
-                <Link to="/shop/bags/crossbody bags">Crossbody Bags</Link>
+                <Link to="/shop/bags/minibags">Mini Bags</Link>
+                <Link to="/shop/bags/totebags">Tote Bags</Link>
+                <Link to="/shop/bags/shoulderbags">Shoulder Bags</Link>
+                <Link to="/shop/bags/crossbodybags">Crossbody Bags</Link>
               </div>
               <div className="dropdown-shoes">
                 <Link to="/shop/shoes">Shoes</Link>

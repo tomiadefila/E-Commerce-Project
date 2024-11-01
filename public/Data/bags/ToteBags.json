@@ -1,0 +1,38 @@
+[
+  
+  {
+  "src": "/images/bagimages/Mini Yara Tote.png",
+  "alt": "Mini Yara Tote pic",
+  "title": "Mini Yara Tote",
+  "price": "£343"
+  },
+  
+
+  {
+  "src": "/images/bagimages/Odette Tote.png",
+  "alt": "Odette_Tote pic",
+  "title": "Odette Tote",
+  "price": "£243"
+  },
+ 
+{ 
+  "src": "/images/bagimages/Sade Tote Bag.png",
+  "alt": "Sade_Tote_Bag pic",
+  "title": "Sade Tote Bag",
+  "price": "£357"
+},
+
+  
+{
+"src": "/images/bagimages/Vina Tote.png",
+"alt": "Vina_Tote pic",
+"title": "Vina Tote",
+"price": "£445"
+},
+{
+"src": "/images/bagimages/Yara Tote.png",
+"alt": "Yara Tote pic",
+"title": "Yara Tote",
+"price": "£345"
+}
+]

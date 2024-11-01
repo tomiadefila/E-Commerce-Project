@@ -1,0 +1,49 @@
+[
+  
+  {
+  "src": "/images/bagimages/Emily Mini Top Handle.png",
+  "alt": "Emily Mini Top Handle pic",
+  "title": "Emily Mini Top Handle",
+  "price": "£359"
+  },
+  
+  {
+  "src": "/images/bagimages/Herie Mini Shoulder.png",
+  "alt": "Herie Mini Shoulder pic",
+  "title": "Herie Mini Shoulder",
+  "price": "£375"
+  },
+  
+  {
+  "src": "/images/bagimages/Mimi Bag.png",
+  "alt": "Mimi_Bag pic",
+  "title": "Mimi Bag",
+  "price": "£340"
+  },
+  {
+  "src": "/images/bagimages/Mini Yara Tote.png",
+  "alt": "Mini Yara Tote pic",
+  "title": "Mini Yara Tote",
+  "price": "£343"
+  },
+  {
+  "src": "/images/bagimages/Minie Bag.png",
+  "alt": "Minie Bag pic",
+  "title": "Minie Bag",
+  "price": "£240"
+  },
+  
+{
+  "src": "/images/bagimages/Silver Mimi Bag.png",
+  "alt": "Silver Mini Bag pic",
+  "title": "Silver Mini Bag",
+  "price": "£150"
+  },
+  {
+  "src": "/images/bagimages/Siolene Mini Shoulder Bag.png",
+  "alt": "Siolene Mini Shoulder Bag pic",
+  "title": "Siolene Mini Shoulder Bag",
+  "price": "£450"
+  }
+  
+]

@@ -1,0 +1,34 @@
+[
+  
+  {
+   "src": "/images/bagimages/Ark Crossbody.png",
+   "alt": "Ark Crossbody pic",
+  "title": "Ark Crossbody",
+  "price": "£459"
+  },
+
+  
+  {
+  "src": "/images/bagimages/Luna Crossbody.png",
+  "alt": "Luna Crossbody pic",
+  "title": "Luna Crossbody",
+  "price": "£434"
+  },
+
+  
+  {
+  "src": "/images/bagimages/Renee Crossbody.png",
+  "alt": "Renee Crossbody pic",
+  "title": "Renee Crossbody",
+  "price": "£350"
+  },
+
+
+  { 
+  "src": "/images/bagimages/Sibi Crossbody Bag.png",
+  "alt": "Sibi Crossbody Bag pic",
+  "title": "Sibi Crossbody Bag",
+  "price": "£357"
+}
+
+]

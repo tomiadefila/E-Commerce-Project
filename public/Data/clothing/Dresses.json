@@ -1,13 +1,5 @@
  [
-    {
-        "src": "/images/clothingimages/Ada_Skirt.png",
-        "alt": "Ada_Skirt pic",
-        "title": "Ada Skirt",
-        "price": "£459",
-        "rating": 5,
-        "date": "24/09/2024"
-
-    },
+    
     {
         "src": "/images/clothingimages/Aka _Dress.png",
         "alt": "Aka_Dress pic",
@@ -22,12 +14,59 @@
         "title": "Ama Dress",
         "price": "£679"
     },
-        
+    
+    {
+        "src": "/images/clothingimages/Arel_Dress.png",
+        "alt": "Arel_Dress pic",
+        "title": "Arel_Dress",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+
+    {
+        "src": "/images/clothingimages/Ara_Dress.png",
+        "alt": "Ara_Dress pic",
+        "title": "Ara Dress",
+        "price": "£459",
+        "rating": 5,
+        "date": "24/09/2024"
+
+    },
+    
+    {
+        "src": "/images/clothingimages/Black_Fina Dress.png",
+        "alt": "Black_Fina Dress pic",
+        "title": "Black Fina Dress",
+        "price": "£459"
+    },
+    
+    {
+        "src": "/images/clothingimages/Cara_Dress.png",
+        "alt": "Cara_Dress Pic",
+        "title": "Cara Dress",
+        "price": "£359"
+    },
+    
     {
         "src": "/images/clothingimages/Elle_Dress.png",
         "alt": "Elle_Dress Pic",
         "title": "Elle Dress ",
         "price": "£859"
+    },
+    {
+        "src": "/images/clothingimages/Emba_Dress.png",
+        "alt": "Emba_Dress Pic",
+        "title": "Emba Dress ",
+        "price": "£659"
+    },
+    
+    {
+        "src": "/images/clothingimages/Issy_Dress.png",
+        "alt": "Issy_Dress Pic",
+        "title": "Issy Dress ",
+        "price": "£679"
     },
     
     {
@@ -35,9 +74,30 @@
         "alt": "Kenny_Dress Pic",
         "title": "Kenny Dress ",
         "price": "£979"
-    }
+    },
     
+    {
+        "src": "/images/clothingimages/Rina_Dress.png",
+        "alt": "Rina_Dress Pic",
+        "title": "Rina Dress ",
+        "price": "£759"
+    },
+    
+    {
+        "src": "/images/clothingimages/Sara_Dress.png",
+        "alt": "Sara_Dress Pic",
+        "title": "Sara Dress",
+        "price": "£759"
+    },
+    
+    
+    {
+        "src": "/images/clothingimages/White_Fina Dress.png",
+        "alt": "White_Fina Dress pic",
+        "title": "White_Fina Dress",
+        "price": "£459"
+    }
+       
 ]
-
 
     

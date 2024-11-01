@@ -13,12 +13,14 @@ import Shoes from "./components/shoes/Shoes";
 import New from "./components/new/New";
 import Home from "./Pages/Home";
 import Listing from "./components/listing/Listing";
+import Search from "./components/search/Search"
 
 function App() {
   return (
     <div>
       <Router>
         <Header />
+        <Search />
 
         <Routes>
           <Route exact path="/" element={<Home />} />
@@ -83,6 +85,54 @@ function App() {
               <Listing
                 dataSource="http://localhost:3000/Data/bags/Bags.json"
                 title="BAGS"
+              />
+            }
+          />
+          <Route
+            path="/shop/bags/clutches"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/bags/Clutches.json"
+                title="CLUTCHES"
+              />
+            }
+          />
+          <Route
+            path="/shop/bags/crossbodybags"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/bags/CrossbodyBags.json"
+                title="CROSSBODY BAGS"
+              />
+            }
+          />
+
+          <Route
+            path="/shop/bags/minibags"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/bags/Minibags.json"
+                title="MINIBAGS"
+              />
+            }
+          />
+
+          <Route
+            path="/shop/bags/shoulderbags"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/bags/ShoulderBags.json"
+                title="SHOULDER BAGS"
+              />
+            }
+          />
+
+          <Route
+            path="/shop/bags/totebags"
+            element={
+              <Listing
+                dataSource="http://localhost:3000/Data/bags/ToteBags.json"
+                title="TOTE BAGS"
               />
             }
           />

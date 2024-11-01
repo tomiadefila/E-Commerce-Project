@@ -5,11 +5,29 @@
   "title": "Alita Top Handle",
   "price": "£459"
   },
+  {
+   "src": "/images/bagimages/Annie_Clutch.png",
+   "alt": "Annie_Clutch pic",
+  "title": "Annie Clutch",
+  "price": "£359"
+  },
+  {
+   "src": "/images/bagimages/Ark Crossbody.png",
+   "alt": "Ark Crossbody pic",
+  "title": "Ark Crossbody",
+  "price": "£459"
+  },
 
   {
-  "src": "/images/bagimages/Ark Crossbody.png",
-  "alt": "Ark_Crossbody pic",
-  "title": "Ark Crossbody",
+  "src": "/images/bagimages/Cali Clutch.png",
+  "alt": "Cali Clutch pic",
+  "title": "Cali Clutch",
+  "price": "£259"
+  },
+  {
+  "src": "/images/bagimages/Claudette Shoulder.png",
+  "alt": "Claudette Shoulder pic",
+  "title": "Claudette Shoulder",
   "price": "£259"
   },
 
@@ -17,14 +35,63 @@
   "src": "/images/bagimages/Fana Pearl Bag.png",
   "alt": "Cali_Clutch pic",
   "title": "Cali Clutch",
-  "price": "£555"
+  "price": "£455"
+  },
+  {
+  "src": "/images/bagimages/Emily Mini Top Handle.png",
+  "alt": "Emily Mini Top Handle pic",
+  "title": "Emily Mini Top Handle",
+  "price": "£359"
+  },
+  {
+  "src": "/images/bagimages/Ese Clutch.png",
+  "alt": "Ese Clutch pic",
+  "title": "Ese Clutch",
+  "price": "£459"
+  },
+
+  {
+  "src": "/images/bagimages/Eza Clutch.png",
+  "alt": "Eza Clutch pic",
+  "title": "Eza Clutch",
+  "price": "£355"
   },
 
   {
   "src": "/images/bagimages/Fana Pearl Bag.png",
   "alt": "Fana_Pearl_Bag",
   "title": "Fana Pearl Bag",
-  "price": "£704"
+  "price": "£374"
+  },
+  {
+  "src": "/images/bagimages/Gianna Clutch.png",
+  "alt": "Gianna Clutch pic",
+  "title": "Gianna Clutch",
+  "price": "£345"
+  },
+  {
+  "src": "/images/bagimages/Hera Shoulder Bag.png",
+  "alt": "Hera Shoulder Bag",
+  "title": "Hera Shoulder Bag",
+  "price": "£454"
+  },
+  {
+  "src": "/images/bagimages/Herie Mini Shoulder.png",
+  "alt": "Herie Mini Shoulder pic",
+  "title": "Herie Mini Shoulder",
+  "price": "£375"
+  },
+  {
+  "src": "/images/bagimages/Jala Nano Clutch.png",
+  "alt": "Jala Nano Clutch",
+  "title": "Jala Nano Clutch",
+  "price": "£654"
+  },
+  {
+  "src": "/images/bagimages/Julie Shoulder Bag.png",
+  "alt": "Julie Shoulder Bag pic",
+  "title": "Julie Shoulder Bag",
+  "price": "£575"
   },
 
   {
@@ -33,12 +100,42 @@
   "title": "Lola Shoulder",
   "price": "£234"
   },
+  {
+  "src": "/images/bagimages/Luna Crossbody.png",
+  "alt": "Luna Crossbody pic",
+  "title": "Luna Crossbody",
+  "price": "£434"
+  },
 
   {
   "src": "/images/bagimages/Mimi Bag.png",
   "alt": "Mimi_Bag pic",
   "title": "Mimi Bag",
   "price": "£340"
+  },
+  {
+  "src": "/images/bagimages/Mini Yara Tote.png",
+  "alt": "Mini Yara Tote pic",
+  "title": "Mini Yara Tote",
+  "price": "£343"
+  },
+  {
+  "src": "/images/bagimages/Minie Bag.png",
+  "alt": "Minie Bag pic",
+  "title": "Minie Bag",
+  "price": "£240"
+  },
+  {
+  "src": "/images/bagimages/Mya Clutch.png",
+  "alt": "Mya Clutch pic",
+  "title": "Mya Clutch",
+  "price": "£350"
+  },
+  {
+  "src": "/images/bagimages/Nata Shoulder Bag.png",
+  "alt": "Nata Shoulder Bag pic",
+  "title": "Nata Shoulder Bag",
+  "price": "£475"
   },
 
   {
@@ -47,6 +144,24 @@
   "title": "Odette Tote",
   "price": "£243"
   },
+  {
+  "src": "/images/bagimages/Osi Top Handle Bag.png",
+  "alt": "Osi Top Handle Bag pic",
+  "title": "Osi Top Handle Bag",
+  "price": "£250"
+  },
+  {
+  "src": "/images/bagimages/Rae Wristlet Bag.png",
+  "alt": "Rae Wristlet Bag pic",
+  "title": "Rae Wristlet Bag",
+  "price": "£343"
+  },
+  {
+  "src": "/images/bagimages/Renee Crossbody.png",
+  "alt": "Renee Crossbody pic",
+  "title": "Renee Crossbody",
+  "price": "£350"
+  },
 
 { 
   "src": "/images/bagimages/Sade Tote Bag.png",
@@ -54,12 +169,78 @@
   "title": "Sade Tote Bag",
   "price": "£357"
 },
-
+{
+  "src": "/images/bagimages/Scruntch Clutch.png",
+  "alt": "Scruntch Clutch pic",
+  "title": "Scruntch Clutch",
+  "price": "£250"
+  },
+  {
+  "src": "/images/bagimages/Serena Clutch.png",
+  "alt": "Serena Clutch pic",
+  "title": "Serena Clutch",
+  "price": "£250"
+  },
+  { 
+  "src": "/images/bagimages/Sibi Crossbody Bag.png",
+  "alt": "Sibi Crossbody Bag pic",
+  "title": "Sibi Crossbody Bag",
+  "price": "£357"
+},
+{
+  "src": "/images/bagimages/Silver Mimi Bag.png",
+  "alt": "Silver Mini Bag pic",
+  "title": "Silver Mini Bag",
+  "price": "£150"
+  },
+  {
+  "src": "/images/bagimages/Siolene Mini Shoulder Bag.png",
+  "alt": "Siolene Mini Shoulder Bag pic",
+  "title": "Siolene Mini Shoulder Bag",
+  "price": "£450"
+  },
+  {
+  "src": "/images/bagimages/Sue Clutch.png",
+  "alt": "Sue Clutch pic",
+  "title": "Sue Clutch",
+  "price": "£350"
+  },
+  {
+  "src": "/images/bagimages/Suri Bag.png",
+  "alt": "Suri Bag pic",
+  "title": "Suri Bag",
+  "price": "£450"
+  },
+  {
+  "src": "/images/bagimages/Taja Bag.png",
+  "alt": "Taja Bag pic",
+  "title": "Taja Bag",
+  "price": "£450"
+  },
+  {
+  "src": "/images/bagimages/Uba Bag.png",
+  "alt": "Uba Bag pic",
+  "title": "Uba Bag",
+  "price": "£250"
+  },
+  {
+"src": "/images/bagimages/Vera Clutch.png",
+"alt": "Vera Clutch pic",
+"title": "Vera Clutch",
+"price": "£325"
+},
+  
 {
 "src": "/images/bagimages/Vina Tote.png",
 "alt": "Vina_Tote pic",
 "title": "Vina Tote",
 "price": "£445"
+},
+{
+"src": "/images/bagimages/Yara Tote.png",
+"alt": "Yara Tote pic",
+"title": "Yara Tote",
+"price": "£345"
 },
 
 {

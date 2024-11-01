@@ -6,7 +6,7 @@ import { useEffect } from "react";
 function Bags() {
   const [list, setList] = useState([]);
   const fetchData = async function () {
-    const response = await fetch("http://localhost:3000/Data/Bags.json");
+    const response = await fetch("np");
     const result = await response.json();
 
     setList(result);

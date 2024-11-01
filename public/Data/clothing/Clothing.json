@@ -23,11 +23,87 @@
         "price": "£679"
     },
     {
+        "src": "/images/clothingimages/Ada_Top.png",
+        "alt": "Ada_Top pic",
+        "title": "Ada Top",
+        "price": "£259",
+        "rating": 5,
+        "date": "24/09/2024"
+
+    },
+    {
+        "src": "/images/clothingimages/Ana_Skirt.png",
+        "alt": "Ana_Skirt pic",
+        "title": "Ana Skirt",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+    {
+        "src": "/images/clothingimages/Arel_Dress.png",
+        "alt": "Ariel_Dress pic",
+        "title": "Ana Skirt",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+
+    {
+        "src": "/images/clothingimages/Ara_Dress.png",
+        "alt": "Ara_Dress pic",
+        "title": "Ara Dress",
+        "price": "£459",
+        "rating": 5,
+        "date": "24/09/2024"
+
+    },
+    {
+        "src": "/images/clothingimages/Arieta_Skirt.png",
+        "alt": "Arieta_Skirt pic",
+        "title": "Arieta Skirt",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+    {
+        "src": "/images/clothingimages/Asha_Gown.png",
+        "alt": "Asha_Gown pic",
+        "title": "Asha Gown",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+    {
+        "src": "/images/clothingimages/Avive_Gown.png",
+        "alt": "Avive_Gown pic",
+        "title": "Avive Gown",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/10/2024"
+
+    },
+    {
         "src": "/images/clothingimages/Black_BlazJacket.png",
         "alt": "Black_BlazJacket pic",
         "title": "Blaze Jacket",
         "price": "£459"
     },
+    {
+        "src": "/images/clothingimages/Black_Fina Dress.png",
+        "alt": "Black_Fina Dress pic",
+        "title": "Black Fina Dress",
+        "price": "£459"
+    },
+    {
+        "src": "/images/clothingimages/Blue_Blaz Jacket.png",
+        "alt": "Black_BlazJacket pic",
+        "title": "Blaze Jacket",
+        "price": "£459"
+    },    
     {
         "src": "/images/clothingimages/Bria_Top.png",
         "alt": "Bria_Top",
@@ -35,10 +111,28 @@
         "price": "£350"
     },
     {
+        "src": "/images/clothingimages/Cara_Dress.png",
+        "alt": "Cara_Dress Pic",
+        "title": "Cara Dress",
+        "price": "£359"
+    },
+    {
+        "src": "/images/clothingimages/Cora_Coat.png",
+        "alt": "Clara_Pant Pic",
+        "title": "Clara Pant",
+        "price": "£459"
+    },
+    {
         "src": "/images/clothingimages/Clara_Pant.png",
         "alt": "Clara_Pant Pic",
         "title": "Clara Pant",
-        "price": "£359"
+        "price": "£259"
+    },
+    {
+        "src": "/images/clothingimages/Dera_Pant.png",
+        "alt": "Dera_Pant Pic",
+        "title": "Dera_Pant",
+        "price": "£389"
     },
     {
         "src": "/images/clothingimages/Diya_Coat.png",
@@ -47,15 +141,118 @@
         "price": "£489"
     },
     {
+        "src": "/images/clothingimages/Eka_Shirt.png",
+        "alt": "Eka_Shirt Pic",
+        "title": "Eka Shirt ",
+        "price": "£359"
+    },
+    {
+        "src": "/images/clothingimages/Eka_Top.png",
+        "alt": "Eka_Top Pic",
+        "title": "Eka Top ",
+        "price": "£259"
+    },
+    {
         "src": "/images/clothingimages/Elle_Dress.png",
         "alt": "Elle_Dress Pic",
         "title": "Elle Dress ",
         "price": "£859"
     },
     {
+        "src": "/images/clothingimages/Emba_Dress.png",
+        "alt": "Emba_Dress Pic",
+        "title": "Emba Dress ",
+        "price": "£659"
+    },
+    {
+        "src": "/images/clothingimages/Fara_Top.png",
+        "alt": "Fara_Top Pic",
+        "title": "Fara Top ",
+        "price": "£359"
+    },
+    {
+        "src": "/images/clothingimages/Gabby_Top.png",
+        "alt": "Gabby_Top Pic",
+        "title": "Gabby Top ",
+        "price": "£339"
+    },
+    {
+        "src": "/images/clothingimages/Gena_Top.png",
+        "alt": "Gena_Top Pic",
+        "title": "Gena Top ",
+        "price": "£279"
+    },
+    {
+        "src": "/images/clothingimages/Gena_Skirt.png",
+        "alt": "Gena_Skirt Pic",
+        "title": "Gena Skirt ",
+        "price": "£379"
+    },
+    {
         "src": "/images/clothingimages/Gima_Top.png",
         "alt": "Gima_Top Pic",
         "title": "Gima Top ",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Gima_Skirt.png",
+        "alt": "Gima_Skirt Pic",
+        "title": "Gima Skirt ",
+        "price": "£479"
+    },
+    {
+        "src": "/images/clothingimages/Hadassah_Gown.png",
+        "alt": "Hadassah_Gown Pic",
+        "title": "Hadassah Gown ",
+        "price": "£779"
+    },
+    {
+        "src": "/images/clothingimages/Hansel_Gown.png",
+        "alt": "Hansel_Gown Pic",
+        "title": "Hansel Gown ",
+        "price": "£579"
+    },
+    {
+        "src": "/images/clothingimages/Ireti_Pant.png",
+        "alt": "Ireti_Pant Pic",
+        "title": "Ireti Pant ",
+        "price": "£479"
+    },
+    {
+        "src": "/images/clothingimages/Ireti_Top.png",
+        "alt": "Ireti_Top Pic",
+        "title": "Ireti Top ",
+        "price": "£279"
+    },
+    {
+        "src": "/images/clothingimages/Issy_Dress.png",
+        "alt": "Issy_Dress Pic",
+        "title": "Issy Dress ",
+        "price": "£679"
+    },
+    {
+    
+        "src": "/images/clothingimages/Jade_Top.png",
+        "alt": "Jade_Top Pic",
+        "title": "Jade Top ",
+        "price": "£259"
+    },
+    {
+        "src": "/images/clothingimages/Jasin_Gown.png",
+        "alt": "Jasin_Gown Pic",
+        "title": "Jasin Gown ",
+        "price": "£579"
+    },
+    {
+        "src": "/images/clothingimages/Jona_Pant.png",
+        "alt": "Jona_Pant Pic",
+        "title": "Jona Pant ",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Kara_Pant.png",
+        "alt": "Kara_Pant Pic",
+        "title": "Kara Pant ",
         "price": "£379"
     },
     {
@@ -65,10 +262,81 @@
         "price": "£979"
     },
     {
+        "src": "/images/clothingimages/Luca_Jacket.png",
+        "alt": "Luca_Jacket Pic",
+        "title": "Luca Jacket ",
+        "price": "£579"
+    },
+    {
+        "src": "/images/clothingimages/Luca_Skirt.png",
+        "alt": "Luca_Skirt Pic",
+        "title": "Luca Skirt ",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Mint_PearlGown.png",
+        "alt": "Mint_PearlGown Pic",
+        "title": "Mint PearlGown",
+        "price": "£1079"
+    },
+    
+    {
+    
+        "src": "/images/clothingimages/Nora_Top.png",
+        "alt": "Nora_Top Pic",
+        "title": "Nora Top ",
+        "price": "£259"
+    },
+    {
+        "src": "/images/clothingimages/Ola_Short.png",
+        "alt": "Ola_Short Pic",
+        "title": "Ola Short",
+        "price": "£179"
+    },
+    {
+        "src": "/images/clothingimages/Olia_Gown.png",
+        "alt": "Olia_Gown Pic",
+        "title": "Olia Gown",
+        "price": "£679"
+    },
+    {
+    
+        "src": "/images/clothingimages/Ora_Top.png",
+        "alt": "Ora_Top Pic",
+        "title": "Ora Top ",
+        "price": "£259"
+    },
+    {
         "src": "/images/clothingimages/Pearl_Gown.png",
         "alt": "Pearl_Gown Pic",
         "title": "Pearl Gown",
         "price": "£1079"
+    },
+    {
+    
+        "src": "/images/clothingimages/Ria_Top.png",
+        "alt": "Ria_Top Pic",
+        "title": "Ria Top ",
+        "price": "£259"
+    },
+    {
+        "src": "/images/clothingimages/Rina_Dress.png",
+        "alt": "Rina_Dress Pic",
+        "title": "Rina Dress ",
+        "price": "£759"
+    },
+    {
+    
+        "src": "/images/clothingimages/Sana_Gown.png",
+        "alt": "Sana_Gown Pic",
+        "title": "Sana Gown ",
+        "price": "£559"
+    },
+    {
+        "src": "/images/clothingimages/Sara_Dress.png",
+        "alt": "Sara_Dress Pic",
+        "title": "Sara Dress",
+        "price": "£759"
     },
     {
         "src": "/images/clothingimages/Serena_Blazer.png",
@@ -77,10 +345,40 @@
         "price": "£579"
     },
     {
+        "src": "/images/clothingimages/Sona_Skirt.png",
+        "alt": "Sona_Skirt Pic",
+        "title": "Sona Skirt",
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Sosa_Pant.png",
+        "alt": "Sosa_Pant Pic",
+        "title": "Sosa Pant",
+        "price": "£459"
+    },
+    {
+        "src": "/images/clothingimages/Sosa_Top.png",
+        "alt": "Sosa_Top Pic",
+        "title": "Sosa Top",
+        "price": "£279"
+    },
+    {
         "src": "/images/clothingimages/Stacy_Pant.png",
         "alt": "Stacy_Pant Pic",
         "title": "Stacy Pant",
-        "price": "£579"
+        "price": "£379"
+    },
+    {
+        "src": "/images/clothingimages/Syd_Pant.png",
+        "alt": "Syd_Pant Pic",
+        "title": "Syd Pant",
+        "price": "£479"
+    },
+     {
+        "src": "/images/clothingimages/Tara_Top.png",
+        "alt": "Tara_Top Pic",
+        "title": "Tara Top",
+        "price": "£349"
     },
     {
         "src": "/images/clothingimages/Vera_Top.png",
@@ -89,9 +387,27 @@
         "price": "£349"
     },
     {
+        "src": "/images/clothingimages/White_Fina Dress.png",
+        "alt": "White_Fina Dress pic",
+        "title": "White_Fina Dress",
+        "price": "£459"
+    },
+    {
+        "src": "/images/clothingimages/Wina_Pant.png",
+        "alt": "Wina_Pant Pic",
+        "title": "Wina Pant",
+        "price": "£379"
+    },
+    {
         "src": "/images/clothingimages/Wura_Gown.png",
         "alt": "Wura Gown Pic",
         "title": "Wura Gown",
+        "price": "£779"
+    },
+    {
+        "src": "/images/clothingimages/Zina_Gown.png",
+        "alt": "Zina_Gown Pic",
+        "title": "Zina Gown",
         "price": "£779"
     }
 ]

@@ -1,16 +1,84 @@
  [
     
     {
+        "src": "/images/clothingimages/Asha_Gown.png",
+        "alt": "Asha_Gown pic",
+        "title": "Asha Gown",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/09/2024"
+
+    },
+    {
+        "src": "/images/clothingimages/Avive_Gown.png",
+        "alt": "Avive_Gown pic",
+        "title": "Avive Gown",
+        "price": "£359",
+        "rating": 8,
+        "date": "24/10/2024"
+
+    },
+    
+    {
+        "src": "/images/clothingimages/Hadassah_Gown.png",
+        "alt": "Hadassah_Gown Pic",
+        "title": "Hadassah Gown ",
+        "price": "£779"
+    },
+    {
+        "src": "/images/clothingimages/Hansel_Gown.png",
+        "alt": "Hansel_Gown Pic",
+        "title": "Hansel Gown ",
+        "price": "£579"
+    },
+    
+    {
+        "src": "/images/clothingimages/Jasin_Gown.png",
+        "alt": "Jasin_Gown Pic",
+        "title": "Jasin Gown ",
+        "price": "£579"
+    },
+    
+    {
+        "src": "/images/clothingimages/Mint_PearlGown.png",
+        "alt": "Mint_PearlGown Pic",
+        "title": "Mint PearlGown",
+        "price": "£1079"
+    },
+    
+    
+    {
+        "src": "/images/clothingimages/Olia_Gown.png",
+        "alt": "Olia_Gown Pic",
+        "title": "Olia Gown",
+        "price": "£679"
+    },
+    
+    {
         "src": "/images/clothingimages/Pearl_Gown.png",
         "alt": "Pearl_Gown Pic",
         "title": "Pearl Gown",
         "price": "£1079"
     },
-        
+    
+    {
+    
+        "src": "/images/clothingimages/Sana_Gown.png",
+        "alt": "Sana_Gown Pic",
+        "title": "Sana Gown ",
+        "price": "£559"
+    },
+    
     {
         "src": "/images/clothingimages/Wura_Gown.png",
         "alt": "Wura Gown Pic",
         "title": "Wura Gown",
+        "price": "£779"
+    },
+    {
+        "src": "/images/clothingimages/Zina_Gown.png",
+        "alt": "Zina_Gown Pic",
+        "title": "Zina Gown",
         "price": "£779"
     }
 ]
