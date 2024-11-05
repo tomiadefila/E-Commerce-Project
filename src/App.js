@@ -13,14 +13,13 @@ import Shoes from "./components/shoes/Shoes";
 import New from "./components/new/New";
 import Home from "./Pages/Home";
 import Listing from "./components/listing/Listing";
-import Search from "./components/search/Search"
+
 
 function App() {
   return (
     <div>
       <Router>
         <Header />
-        <Search />
 
         <Routes>
           <Route exact path="/" element={<Home />} />

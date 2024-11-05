@@ -5,6 +5,7 @@ import { useEffect } from "react";
 
 function Listing(props) {
   const [list, setList] = useState([]);
+  const [ogList, setOgList] = useState([]);
   const fetchData = async function () {
     const response = await fetch(props.dataSource);
     const result = await response.json();
@@ -13,6 +14,7 @@ function Listing(props) {
     });
 
     setList(result);
+    setOgList(result);
   };
   useEffect(
     function () {
@@ -49,9 +51,20 @@ function Listing(props) {
       setList(copy);
     }
   };
+  const search = function (event) {
+    event.preventDefault();
+    event.stopPropagation();
 
+    const input = document.getElementById("search")
+    console.log(input.value)
+    setList(ogList.filter((element) => element.title.toLowerCase().includes(input.value.toLowerCase())))
+}
   return (
     <div>
+      <form className="cl-search" onSubmit={search}>
+        <input type="search" id="search" />
+        <button type="submit">Search</button>
+      </form>
       <button className="cl-button" onClick={togglelist}>
         Sort By
       </button>

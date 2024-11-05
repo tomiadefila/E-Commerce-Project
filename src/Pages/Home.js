@@ -1,5 +1,5 @@
 import Listing from "../components/listing/Listing";
-import Search from "../components/search/Search";
+
  
 function Home() {
     return (

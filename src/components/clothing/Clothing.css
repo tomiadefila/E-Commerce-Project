@@ -40,3 +40,8 @@ body {
     background: #fffef8;
     line-height: 1;
 }
+
+.cl-search {
+position: absolute;
+left: 15px;
+}
