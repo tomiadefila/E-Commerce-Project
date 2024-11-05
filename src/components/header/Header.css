@@ -50,10 +50,14 @@ header {
 
 }
 
+.dropdown .dropdown-content a:hover {
+text-decoration: underline;
+}
+
 .dropdown:hover .dropdown-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 20px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
 }
 
 .dropdown-clothing :link {
