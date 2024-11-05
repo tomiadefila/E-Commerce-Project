@@ -13,8 +13,17 @@
     display: none;
     margin-top: 10px;
     padding: 0;
+    position: absolute;
+    right: 15px;
+    margin-top: 30px;
 }
-
+.cl-list li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.cl-list li{
+    padding-bottom: 10px;
+}
 
 .cl-button {
     padding: 10px;
@@ -22,7 +31,9 @@
     border: none;
     cursor: pointer;
     font-size: 15px;
-    float: right;
+    position: absolute;
+    right: 15px;
+
 }
 
 body {

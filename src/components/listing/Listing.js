@@ -52,8 +52,6 @@ function Listing(props) {
 
   return (
     <div>
-      <p className="p1">{props.title}</p>
-
       <button className="cl-button" onClick={togglelist}>
         Sort By
       </button>
@@ -61,11 +59,12 @@ function Listing(props) {
       <ul className="cl-list" id="sortList">
         <li onClick={() => sort("rating", true)}>Popularity</li>
         <li>Newest</li>
-        <li onClick={() => sort("value", false)}>Price(Low-High)</li>
-        <li onClick={() => sort("value", true)}>Price(High-Low)</li>
-        <li onClick={() => sort("title", false)}>Name(A-Z)</li>
-        <li onClick={() => sort("title", true)}>Name(Z-A)</li>
+        <li onClick={() => sort("value", false)}>Price (Low-High)</li>
+        <li onClick={() => sort("value", true)}>Price (High-Low)</li>
+        <li onClick={() => sort("title", false)}>Name (A-Z)</li>
+        <li onClick={() => sort("title", true)}>Name (Z-A)</li>
       </ul>
+      <p className="p1">{props.title}</p>
 
       <div className="cl-wrap">
         {list.map((list) => (
