@@ -25,7 +25,7 @@ function App() {
           <Route exact path="/" element={<Home />} />
           <Route path="/shop" element={<Shop />} />
           <Route
-            path="/shop/clothing"
+            path="/shop/clothing/all clothing"
             element={
               <Listing
                 dataSource="http://localhost:3000/Data/clothing/Clothing.json"
@@ -79,7 +79,7 @@ function App() {
             }
           />
           <Route
-            path="/shop/bags"
+            path="/shop/bags/all bags"
             element={
               <Listing
                 dataSource="http://localhost:3000/Data/bags/Bags.json"
@@ -136,7 +136,7 @@ function App() {
             }
           />
           <Route
-            path="/shop/shoes"
+            path="/shop/shoes/all shoes"
             element={
               <Listing
                 dataSource="http://localhost:3000/Data/shoes/Shoes.json"
@@ -144,7 +144,7 @@ function App() {
               />
             }
           />
-          <Route path="/shop/accesories" element={<Accesories />} />
+          <Route path="/shop/accesories/all accesories" element={<Accesories />} />
           <Route path="/collections" element={<Collections />} />
           <Route path="/new" element={<New />} />
         </Routes>

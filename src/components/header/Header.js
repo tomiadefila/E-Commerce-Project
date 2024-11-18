@@ -19,7 +19,7 @@ function Header() {
             <Link to="/shop">SHOP</Link>
             <div className="dropdown-content">
               <div className="dropdown-clothing">
-                <Link to="/shop/clothing">Clothing</Link>
+                <h5>CLOTHING</h5>
                 <Link to="/shop/clothing/all clothing">All Clothing</Link>
                 <Link to="/shop/clothing/dresses">Dresses</Link>
                 <Link to="/shop/clothing/gowns">Gowns</Link>
@@ -30,7 +30,7 @@ function Header() {
                 <Link to="/shop/clothing/sets">Sets</Link>
               </div>
               <div className="dropdown-bags">
-                <Link to="/shop/bags">Bags</Link>
+                <h5>BAGS</h5>
                 <Link to="/shop/bags/all bags">All Bags</Link>
                 <Link to="/shop/bags/clutches">Clutches</Link>
                 <Link to="/shop/bags/minibags">Mini Bags</Link>
@@ -39,7 +39,7 @@ function Header() {
                 <Link to="/shop/bags/crossbodybags">Crossbody Bags</Link>
               </div>
               <div className="dropdown-shoes">
-                <Link to="/shop/shoes">Shoes</Link>
+                <h5>SHOES</h5>
                 <Link to="/shop/shoes/all shoes">All Shoes</Link>
                 <Link to="/shop/shoes/boots">Boots</Link>
                 <Link to="/shop/shoes/flats">Flats</Link>
@@ -48,7 +48,7 @@ function Header() {
                 <Link to="/shop/shoes/sandals">Sandals</Link>
               </div>
               <div className="dropdown-accesories">
-                <Link to="/shop/accesories">Accesories</Link>
+                <h5>ACCESORIES</h5>
                 <Link to="/shop/accesories/all shoes">All Accesories</Link>
                 <Link to="/shop/accesories/jewellery">Jewellery</Link>
                 <Link to="/shop/accesories/earrings">Earringd</Link>
